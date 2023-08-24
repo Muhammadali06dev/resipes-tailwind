@@ -1,0 +1,49 @@
+{
+   "resipes": [
+      {
+         "id": "1",
+         "title": "Chorizo & mozzarella gnocchi",
+         "ingredients": [
+            "1 tbsp olive oil",
+            "1 onion, finely chopped",
+            "2 garlic cloves, crushed",
+            "120g chorizo, diced",
+            "2 x 400g cans chopped tomatoes",
+            "1 tsp caster sugar",
+            "600g fresh gnocchi",
+            "125g mozzarella ball, cut into chunks",
+            "small bunch of basil, torn",
+            "green salad, to serve"
+         ],
+         "method": "STEP 1 Heat the oil in a medium pan over a medium heat. Fry the onion and garlic for 8-10 mins until soft. Add the chorizo and fry for 5 mins more. Tip in the tomatoes and sugar, and season. Bring to a simmer, then add the gnocchi and cook for 8 mins, stirring often, until soft. Heat the grill to high STEP 2 Stir ¾ of the mozzarella and most of the basil through the gnocchi. Divide the mixture between six ovenproof ramekins, or put in one baking dish. Top with the remaining mozzarella, then grill for 3 mins, or until the cheese is melted and golden. Season, scatter over the remaining basil and serve with green salad.",
+         "cookingTime": "35 minutes",
+         "image": "https://i.pinimg.com/564x/3b/2c/3b/3b2c3beba86712c54e086408e13a6ffc.jpg"
+      },
+      {
+         "id": 2,
+         "title": "Easy chocolate fudge cake",
+         "ingredients": [
+            "150ml sunflower oil, plus extra for the tin",
+            "175g self-raising flour",
+            "2 tbsp cocoa powder",
+            "1 tsp bicarbonate of soda"
+         ],
+         "method": "STEP 1 Heat the oven to 180C/160C fan/gas 4. Oil and line the base of two 18cm sandwich tins. Sieve the flour, cocoa powder and bicarbonate of soda into a bowl. Add the caster sugar and mix well. STEP2 Make a well in the centre and add the golden syrup, eggs, sunflower oil and milk. Beat well with an electric whisk until smooth.",
+         "cookingTime": "55 minutes",
+         "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chocolate-fudge-cake-91de17a.jpg"
+      },
+      {
+         "id": "3",
+         "title": "GrPotato hash with greens",
+         "ingredients": [
+            "1 tsp smoked paprika",
+            "2 tbsp chopped tarragon leaves",
+            "2 eggs",
+            "160g baby spinach"
+         ],
+         "method": "STEP 1: Boil the potatoes for 15-20 mins until almost tender, then scoop into a bowl using a slotted spoon. Keep the water for later. STEP 2:Meanwhile, heat the oil in a large non-stick frying pan over a medium heat and cook the onion for 5 mins, stirring frequently until starting to colour. Add the pepper and cook for 5 mins more.",
+         "cookingTime": "45 minutes",
+         "image": "https://images.immediate.co.uk/production/volatile/sites/30/2023/05/Potato-Hash-With-Greens-440x400-7362ceb.jpg"
+      }
+   ]
+}
